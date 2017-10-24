@@ -1,5 +1,3 @@
-# turtleTextWriter
+# Turtle Text Writer
 
-Python side project
-
-Fun program made in spare time that uses the turtle function in python to draw any text that is input
+This project is a program that draws using a turtle object provided by the python turtle library any text that is input.
